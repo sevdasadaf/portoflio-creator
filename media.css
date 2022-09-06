@@ -58,8 +58,7 @@
   .product-header {
     display: flex;
     flex-direction: column;
-    /* justify-content: center;
-    align-items: center;  */
+ 
   }
 
 .header-right {
@@ -128,8 +127,15 @@
 .kickass > footer {
   display: flex;
   flex-direction: column;
-  /* gap: 15px; */
+
 }
 
+ .company {
+  gap: 15px;
+}
+
+.work {
+  width: 100%;
+}
 
   }
